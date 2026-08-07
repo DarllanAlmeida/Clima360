@@ -23,25 +23,25 @@ Aplicación <strong>Full Stack</strong> desarrollada con <strong>Spring Boot</st
 
 ## 🏠 Pantalla principal
 
-![Home](screenshots/home.jpeg)
+![Home](screenshots/home.png)
 
 ---
 
 ## 🌤️ Clima actual
 
-![Weather](screenshots/weather.jpeg)
+![Weather](screenshots/weather.png)
 
 ---
 
 ## 📅 Pronóstico de 5 días
 
-![Forecast](screenshots/forecast.jpeg)
+![Forecast](screenshots/forecast.png)
 
 ---
 
 ## ☁️ Fondo dinámico
 
-![Cloudy](screenshots/cloudy.jpeg)
+![Cloudy](screenshots/cloudy.png)
 
 ---
 
@@ -186,6 +186,3 @@ https://www.linkedin.com/in/darllan-almeida-695a54275/
 
 ---
 
-# ⭐ Si este proyecto te resulta útil
-
-No olvides dejar una ⭐ en el repositorio.
